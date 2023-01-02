@@ -1,0 +1,3 @@
+'''
+string for the map
+'''
